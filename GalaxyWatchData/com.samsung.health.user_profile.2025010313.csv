@@ -1,0 +1,5 @@
+com.samsung.health.user_profile,1149015,10
+modify_sh_ver,int_value,pkg_name,double_value,key,blob_value,deviceuuid,float_value,text_value,datauuid,long_value,create_time,create_sh_ver,update_time
+,,com.sec.android.app.shealth,,dashboard_config,00000000-0000-0000-0000-000000000016.blob_value,HuT3voPSBy,,,00000000-0000-0000-0000-000000000016,,"04/30/2024, 9:44:40 PM",,"04/30/2024, 9:44:40 PM",
+,,com.sec.android.app.shealth,,step_calibration,00000000-0000-0000-0000-000000000017.blob_value,xtfbSOmziO,,,00000000-0000-0000-0000-000000000017,,"12/27/2024, 5:11:24 PM",,"12/27/2024, 5:11:24 PM",
+

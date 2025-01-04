@@ -1,0 +1,1696 @@
+com.samsung.shealth.rewards,1149015,5
+is_visible,pkg_name,number_of_streak,time_offset,exercise_type,source_pkg_name,start_time,device_type,program_id,title,deviceuuid,exercise_session_id,controller_id,end_time,extra_data,datauuid,create_time,update_time
+0,com.sec.android.app.shealth,,-14400000,,,"04/24/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/24/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 9164
+}"",8746931f-293f-4b5e-946e-794be937a63f,"04/30/2024, 12:17:49 PM","05/03/2024, 10:20:19 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/25/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/25/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 29141
+}"",06e73919-65e9-41a6-bb5d-b79adf7d4095,"04/30/2024, 12:17:49 PM","04/30/2024, 1:11:59 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/25/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"04/26/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 29141
+}"",0249cab7-9017-49be-8799-0f460edb1eb5,"04/30/2024, 12:17:49 PM","04/30/2024, 12:17:49 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/24/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/24/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 9164
+}"",62dfc5e3-b334-4437-bb2b-0794468f66b1,"04/30/2024, 12:17:50 PM","05/04/2024, 11:19:13 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/25/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/25/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 29141
+}"",54c9c290-2a0d-4fdc-b882-bf8e9294f8dd,"04/30/2024, 12:17:50 PM","05/11/2024, 6:42:26 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/25/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"04/26/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 29141
+}"",712b339e-8864-41ae-a11b-4cdbcf23a0b8,"04/30/2024, 12:17:50 PM","04/30/2024, 12:17:50 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"04/28/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/29/2024, 12:00:00 AM",""{
+  "mTarget" : 6000,
+  "mValue" : 11531
+}"",c3f3b954-9521-47a6-9e4c-13eded0a7d3f,"04/30/2024, 1:08:44 PM","08/28/2024, 4:16:02 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"04/28/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/29/2024, 12:00:00 AM",""{
+  "mTarget" : 6000,
+  "mValue" : 11192
+}"",9c10bb55-3301-41de-886f-3c7dfc74e37b,"04/30/2024, 1:11:59 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/29/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"04/29/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 92,
+  "mIsCompleted" : false
+}"",0d39b5a3-5e85-46c9-835f-af031347358c,"04/30/2024, 1:12:00 PM","05/01/2024, 6:01:20 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"04/29/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/30/2024, 12:00:00 AM",""{
+  "mTarget" : 6000,
+  "mValue" : 6911
+}"",b8376192-9adc-4719-bc10-d61b88c8b1d8,"04/30/2024, 1:39:30 PM","11/06/2024, 10:10:35 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/29/2024, 9:00:00 PM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"04/29/2024, 9:00:00 PM",""{
+  "mValue2" : 0,
+  "mValue" : 92,
+  "mIsCompleted" : false
+}"",39c62c13-ad9a-430f-94a2-32176db93968,"04/30/2024, 1:39:31 PM","05/01/2024, 2:15:03 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"04/28/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/29/2024, 12:00:00 AM",""{
+  "mTarget" : 6000,
+  "mValue" : 7097
+}"",0f0a48d8-9138-4a39-8e98-d5cbdd317150,"04/30/2024, 9:44:45 PM","11/06/2024, 10:10:35 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/30/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"04/30/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 99,
+  "mIsCompleted" : false
+}"",04fd9022-8482-4c26-b12c-a8de9e05b45c,"05/01/2024, 6:01:20 AM","05/03/2024, 10:20:20 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/29/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/29/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 9155
+}"",e8f7b40f-a53d-43f8-ae70-df7683c6ae61,"05/01/2024, 6:16:16 AM","05/07/2024, 5:47:50 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/30/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/30/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 9105
+}"",9124e0ce-a95a-4ddf-8b28-3d2f3cf25345,"05/01/2024, 6:16:17 AM","05/01/2024, 6:46:34 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/29/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"04/29/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 7229
+}"",1bfe8fe7-0a5c-4d52-a4ac-7d5beeb38211,"05/01/2024, 6:51:34 AM","05/01/2024, 2:43:57 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"04/30/2024, 9:00:00 PM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"04/30/2024, 9:00:00 PM",""{
+  "mValue2" : 0,
+  "mValue" : 99,
+  "mIsCompleted" : false
+}"",0f22de26-1df1-460b-8a7b-011c6fbcb3d7,"05/01/2024, 2:15:03 PM","05/03/2024, 5:11:38 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/01/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/01/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 9929
+}"",57cb9d83-ff9c-4cd3-98e7-1acf914cfc1b,"05/02/2024, 3:45:45 PM","05/09/2024, 8:16:26 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/01/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/01/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 6348
+}"",c56c480d-97ac-4197-8a49-8b974f6f0b1c,"05/03/2024, 10:20:19 AM","05/05/2024, 8:17:20 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/02/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 105,
+  "mIsCompleted" : false
+}"",fef48e66-2c4e-4930-b8e9-46561c575c6b,"05/03/2024, 10:20:20 AM","05/04/2024, 11:20:27 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/02/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 29872
+}"",11b1c259-89ab-44ed-b2b2-1326f16d15f9,"05/03/2024, 12:07:36 PM","05/10/2024, 6:58:53 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/02/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 25084
+}"",4bb0fe5d-d67f-45c1-b4c8-2d1045cba7df,"05/03/2024, 5:10:17 PM","05/10/2024, 6:58:52 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/01/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/01/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 6264
+}"",905549c3-effc-4f2e-b4ce-acee8f5b297e,"05/03/2024, 5:10:22 PM","05/09/2024, 8:16:25 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 9:00:00 PM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"05/02/2024, 9:00:00 PM",""{
+  "mValue2" : 0,
+  "mValue" : 105,
+  "mIsCompleted" : false
+}"",68c0e8f4-2999-41bb-8226-f4fe505528c2,"05/03/2024, 5:11:38 PM","05/04/2024, 11:20:27 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 24917
+}"",7c7ccc4f-3295-4bf7-9678-734ba9ce9828,"05/04/2024, 11:19:08 AM","05/11/2024, 12:43:56 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:08 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20480
+}"",6863c87c-ecb5-4a60-a8a0-01acc42e9049,"05/04/2024, 11:19:08 AM","05/04/2024, 11:19:08 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:09 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20480
+}"",d3b7e689-212b-4d58-b9d8-a9939a78b4e0,"05/04/2024, 11:19:09 AM","05/04/2024, 11:19:09 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 20480
+}"",e2aeb662-4596-4e97-9319-bf9323685d61,"05/04/2024, 11:19:13 AM","05/04/2024, 11:19:13 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 28580
+}"",a99a8e58-bea1-4e51-a5d5-4363e3a502a9,"05/04/2024, 11:19:13 AM","05/08/2024, 9:44:46 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:14 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20480
+}"",d05fffb4-a190-4b49-bd5f-38c3ae02a42f,"05/04/2024, 11:19:14 AM","05/04/2024, 11:19:14 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:44 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20485
+}"",fbb1627f-0a70-40f5-b0ac-23afd712849a,"05/04/2024, 11:19:44 AM","05/04/2024, 11:19:44 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:46 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20489
+}"",5d23ef01-642a-4788-8ead-ba62065381dc,"05/04/2024, 11:19:46 AM","05/04/2024, 11:19:46 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:52 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20491
+}"",78fd41cf-b965-496c-bf5f-7757b045b955,"05/04/2024, 11:19:52 AM","05/04/2024, 11:19:52 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:54 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20491
+}"",da0c27f2-68ec-4f1e-a4a0-d786a4f3a4ac,"05/04/2024, 11:19:54 AM","05/04/2024, 11:19:54 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:57 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20491
+}"",0e704718-b59a-455a-849b-253150dc4aa1,"05/04/2024, 11:19:57 AM","05/04/2024, 11:19:57 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:57 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20491
+}"",64f8922e-b027-4bb7-93d0-125c78349165,"05/04/2024, 11:19:57 AM","05/04/2024, 11:19:57 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:19:59 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20493
+}"",9c2b6107-86d8-43c7-bf0e-94165e77705c,"05/04/2024, 11:19:59 AM","05/04/2024, 11:19:59 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:02 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20493
+}"",45926c33-e4f6-48ee-8713-ad19c30c7ba7,"05/04/2024, 11:20:02 AM","05/04/2024, 11:20:02 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:04 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20497
+}"",6dfeaf99-a6f4-49f1-9b56-32bc07136cac,"05/04/2024, 11:20:04 AM","05/04/2024, 11:20:04 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:20 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20517
+}"",243153f1-09f3-4bbb-be60-77cd98791bd3,"05/04/2024, 11:20:20 AM","05/04/2024, 11:20:20 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:22 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20522
+}"",70e76f4e-8423-437a-81b7-f8adbc9db827,"05/04/2024, 11:20:22 AM","05/04/2024, 11:20:22 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:25 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20526
+}"",b28091f5-5980-4cfa-b576-e960c564d9af,"05/04/2024, 11:20:25 AM","05/04/2024, 11:20:25 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/02/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 27588
+}"",980a61ba-2b1b-400b-b8c9-4560dafd697f,"05/04/2024, 11:20:26 AM","05/05/2024, 6:51:44 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/03/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 262,
+  "mIsCompleted" : false
+}"",f234119f-eb9a-4899-a42a-9b7b28cd0a84,"05/04/2024, 11:20:27 AM","05/05/2024, 7:33:15 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 9:00:00 PM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"05/03/2024, 9:00:00 PM",""{
+  "mValue2" : 0,
+  "mValue" : 262,
+  "mIsCompleted" : false
+}"",d96d1980-81da-409c-afe4-e8b97c934ec8,"05/04/2024, 11:20:27 AM","05/09/2024, 5:25:23 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:28 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20531
+}"",623225d6-b5a3-4772-856f-1d3292d6dcad,"05/04/2024, 11:20:28 AM","05/04/2024, 11:20:28 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:30 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20534
+}"",d792815d-f0b2-4ca6-899d-150b26e4b0fd,"05/04/2024, 11:20:30 AM","05/04/2024, 11:20:30 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:33 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20536
+}"",44a2656f-9c95-4954-8342-d82d73240991,"05/04/2024, 11:20:33 AM","05/04/2024, 11:20:33 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:35 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20540
+}"",732a4d6b-fe19-4b44-8be9-d1b5173494ed,"05/04/2024, 11:20:35 AM","05/04/2024, 11:20:35 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 11:20:38 AM",""{
+  "mTarget" : -1,
+  "mValue" : 20540
+}"",13f82c63-3520-4ac8-add8-1c6f00ea5ac6,"05/04/2024, 11:20:38 AM","05/04/2024, 11:20:38 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:10:16 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",78266ff1-717b-4730-a710-aeee60c151e4,"05/04/2024, 4:10:16 PM","05/04/2024, 4:10:16 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:10:17 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",19246715-b1c3-41a8-871a-8f79bf6dc491,"05/04/2024, 4:10:17 PM","05/04/2024, 4:10:17 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:10:19 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",ceb4ae76-ebe2-49df-98ff-b772fac41d72,"05/04/2024, 4:10:19 PM","05/04/2024, 4:10:19 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:11:35 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",9751afbf-089a-4e0c-929d-cdf1e2794b8e,"05/04/2024, 4:11:35 PM","05/04/2024, 4:11:35 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:11:39 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",3cd44543-745c-45c1-83de-82a4222dff14,"05/04/2024, 4:11:39 PM","05/04/2024, 4:11:39 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:11:47 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",bb648cc9-4feb-4acb-9042-01f13cab3075,"05/04/2024, 4:11:47 PM","05/04/2024, 4:11:47 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:11:49 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",9630767e-a76d-45df-b0e4-e5155d0b83f0,"05/04/2024, 4:11:49 PM","05/04/2024, 4:11:49 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:12:50 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",67d22360-c5cb-421a-a656-424033379e00,"05/04/2024, 4:12:50 PM","05/04/2024, 4:12:50 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 4:12:54 PM",""{
+  "mTarget" : -1,
+  "mValue" : 23003
+}"",dd04ea8b-feae-41cb-94d1-7bc58f261ebc,"05/04/2024, 4:12:54 PM","05/04/2024, 4:12:54 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 8:15:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24801
+}"",caf8f23f-5d4d-4fb6-bee8-1f4599e896ed,"05/04/2024, 8:15:00 PM","05/04/2024, 8:15:00 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24801
+}"",da19fce4-4f09-4c3e-b813-d8722f7ebe21,"05/04/2024, 8:15:01 PM","05/04/2024, 8:15:01 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 8:15:01 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24801
+}"",9401528a-5550-42bf-9654-532ef2f44b27,"05/04/2024, 8:15:01 PM","05/04/2024, 8:15:01 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 8:30:07 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24917
+}"",8eb54e01-fc96-46a5-adf5-8b87c84e5341,"05/04/2024, 8:30:07 PM","05/04/2024, 8:30:07 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 8:30:09 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24917
+}"",6be3c131-21a3-4ac1-aaa5-6e06c7d288c9,"05/04/2024, 8:30:09 PM","05/04/2024, 8:30:09 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 8:30:09 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24917
+}"",5040cc67-2d6e-4eaa-935c-715f3f265cf0,"05/04/2024, 8:30:09 PM","05/04/2024, 8:30:09 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 8:30:10 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24917
+}"",f843c3f3-4275-4f3f-89a8-bcbd1aba2ae0,"05/04/2024, 8:30:10 PM","05/04/2024, 8:30:10 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 8:30:10 PM",""{
+  "mTarget" : -1,
+  "mValue" : 24917
+}"",0ddf18a1-5528-4f05-ba17-f3a3267990e5,"05/04/2024, 8:30:10 PM","05/04/2024, 8:30:10 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 29872
+}"",9adde044-f7a7-4e2a-bb24-7f85649d1bb2,"05/04/2024, 8:30:11 PM","05/05/2024, 6:51:44 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",379db0f3-260b-47dd-a570-676bf7379866,"05/05/2024, 6:47:59 AM","05/05/2024, 6:47:59 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",e6b55278-b831-4dba-882a-43e84ffdaf61,"05/05/2024, 7:31:31 AM","05/05/2024, 7:31:31 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/04/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/04/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 132,
+  "mIsCompleted" : false
+}"",5be220e1-3ba5-43f6-b2b6-c90305d667e1,"05/05/2024, 7:33:15 AM","05/06/2024, 6:45:27 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/03/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 11464
+}"",733d721f-5afe-4bd5-a923-afb6999edb18,"05/05/2024, 8:17:20 AM","05/18/2024, 11:37:45 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",56745185-4cae-4a35-89ea-ff5dc41df3e1,"05/05/2024, 9:41:54 AM","05/05/2024, 9:41:54 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/04/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 13294
+}"",44f51dd0-b3d1-4273-a02d-9be9556a1bda,"05/05/2024, 9:41:54 AM","05/11/2024, 9:45:00 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",5e4db875-90f6-48fe-9695-5a3172c9b968,"05/05/2024, 12:43:27 PM","05/05/2024, 12:43:27 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",154db58c-36a3-4ae1-81e7-18a08f86dc0d,"05/05/2024, 1:35:11 PM","05/05/2024, 1:35:11 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",8270c251-1811-4954-ac5a-308ec3b36f74,"05/05/2024, 6:43:16 PM","05/05/2024, 6:43:16 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",23be7f64-efa7-4267-8fa6-4282a0dc28f9,"05/05/2024, 9:43:02 PM","05/05/2024, 9:43:02 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",2fb4adb9-b349-45ac-8377-1eb58caaa428,"05/06/2024, 1:53:44 AM","05/06/2024, 1:53:44 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",27ce2537-5f1b-41a7-b9a9-8ba4c44b05f2,"05/06/2024, 6:43:55 AM","05/06/2024, 6:43:55 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/04/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 9008
+}"",01792350-2b84-4adf-9cf0-bb007f5f95e5,"05/06/2024, 6:45:27 AM","05/07/2024, 8:29:20 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/05/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/05/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 109,
+  "mIsCompleted" : false
+}"",16cedfd7-14dc-4936-a579-8b068a686923,"05/06/2024, 6:45:27 AM","05/07/2024, 8:29:24 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/05/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/05/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 20632
+}"",7121106f-fb5e-48f5-86f5-3eeddf243212,"05/06/2024, 9:12:28 AM","05/13/2024, 1:06:55 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/05/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/05/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 12873
+}"",d4926ed5-1f60-4d72-b353-45e809e015c5,"05/06/2024, 3:20:33 PM","05/13/2024, 1:06:55 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",526ef3fd-b370-48d9-b9d0-7f17ed5aa012,"05/06/2024, 3:20:38 PM","05/06/2024, 3:20:38 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/04/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/04/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 7023
+}"",b752352c-782d-4401-bf7b-988430249c46,"05/06/2024, 3:20:38 PM","05/11/2024, 9:45:00 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",8195d9b3-ea7d-4481-8e33-e89a3a35db5b,"05/07/2024, 2:12:23 AM","05/07/2024, 2:12:23 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",8d54e6d0-78a3-41a1-a37f-8b40ed1f205a,"05/07/2024, 8:28:07 AM","05/07/2024, 8:28:07 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/05/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/05/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 17802
+}"",4a37a33f-fcfd-46fd-84ec-b28d46e78be4,"05/07/2024, 8:29:21 AM","05/08/2024, 6:44:59 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/06/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/06/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 222,
+  "mIsCompleted" : false
+}"",934d1091-d379-40f0-9344-08617bca39a8,"05/07/2024, 8:29:24 AM","05/09/2024, 3:16:49 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",231a1a45-60e4-42e4-a082-b5277d7f1db9,"05/07/2024, 10:55:18 AM","05/07/2024, 10:55:18 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/06/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/06/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 20443
+}"",0e371d31-6b11-448a-b738-9709163878b4,"05/07/2024, 10:55:18 AM","05/07/2024, 5:47:50 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/06/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/06/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 12873
+}"",4b0f0b9f-e9e3-4f00-9f95-06d30486f896,"05/07/2024, 12:51:28 PM","05/07/2024, 6:44:17 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",a282fbc4-b8ed-486b-9fa7-27754d13f0e3,"05/07/2024, 12:51:33 PM","05/07/2024, 12:51:33 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",3655de41-b880-48aa-9bf6-cf75a8aa7166,"05/07/2024, 3:45:02 PM","05/07/2024, 3:45:02 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",596b52ce-fc38-43a3-98d8-eb431b9d5d62,"05/07/2024, 5:47:49 PM","05/07/2024, 5:47:49 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",3e266ab7-653b-45ee-b1e3-57f80f95f805,"05/08/2024, 12:43:01 AM","05/08/2024, 12:43:01 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",f75cc331-fd3f-4d07-ad94-b8adbc37ab11,"05/08/2024, 6:43:54 AM","05/08/2024, 6:43:54 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",f5a6abea-e168-4fc7-9c2f-c285985bbada,"05/08/2024, 9:44:46 AM","05/08/2024, 9:44:46 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/07/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/07/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 12393
+}"",2bb8f901-c64b-44cb-b4f0-b48216bc6289,"05/08/2024, 9:44:46 AM","05/14/2024, 3:50:06 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",d784600e-138e-4b3c-a42c-3e58f5db4f7e,"05/08/2024, 12:44:42 PM","05/08/2024, 12:44:42 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",b98a7c05-56ae-4291-b67b-eb077233a47f,"05/08/2024, 3:44:01 PM","05/08/2024, 3:44:01 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",2a13eb8c-b84d-4ebf-a7ae-45b9d01bc752,"05/08/2024, 6:44:01 PM","05/08/2024, 6:44:01 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",2b0c3f15-7e06-48c0-8c7b-4e65f0f389e0,"05/09/2024, 1:43:59 AM","05/09/2024, 1:43:59 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",609b55e7-c78e-4310-af85-7f05336cb009,"05/09/2024, 9:30:35 AM","05/09/2024, 9:30:35 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",13bbba93-d4bd-4d4e-83d4-fc2f6688d20e,"05/09/2024, 2:43:37 PM","05/09/2024, 2:43:37 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",d7be0b3a-f405-4350-8800-47161fd8488d,"05/09/2024, 3:16:44 PM","05/09/2024, 3:16:44 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/08/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/08/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 116,
+  "mIsCompleted" : false
+}"",1412f13c-8cd8-4c2f-a644-ec3da434ea9e,"05/09/2024, 3:16:49 PM","05/10/2024, 6:45:54 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/08/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/08/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 10026
+}"",d2e13794-3184-409a-be74-ff48bae4afdb,"05/09/2024, 3:44:07 PM","05/09/2024, 8:16:26 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",9436f43e-ea17-4dd3-970e-f3cdea1aaaa2,"05/09/2024, 4:25:27 PM","05/09/2024, 4:25:27 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"05/07/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/08/2024, 12:00:00 AM",""{
+  "mTarget" : 6000,
+  "mValue" : 10026
+}"",7bec686b-eb29-4177-ad97-a9a23a83c3e7,"05/09/2024, 4:25:27 PM","08/28/2024, 9:37:05 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/08/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/08/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 12393
+}"",be363a89-3f42-4cb0-9c3e-78fcf85a2df8,"05/09/2024, 4:25:27 PM","05/09/2024, 8:16:25 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"05/07/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/08/2024, 12:00:00 AM",""{
+  "mTarget" : 6000,
+  "mValue" : 8616
+}"",b358e344-999a-4c96-9f02-99a57cc4bb23,"05/09/2024, 5:25:23 PM","11/07/2024, 8:36:23 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/08/2024, 9:00:00 PM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"05/08/2024, 9:00:00 PM",""{
+  "mValue2" : 0,
+  "mValue" : 116,
+  "mIsCompleted" : false
+}"",7ef2ca43-20d4-4723-ae78-5dfeeed8a72b,"05/09/2024, 5:25:23 PM","08/28/2024, 6:29:10 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",f1c59b84-58d5-411b-a1c1-38c8f92f7080,"05/09/2024, 8:16:25 PM","05/09/2024, 8:16:25 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",ed819f1d-fcab-4a15-89e2-391ce828d0bd,"05/10/2024, 2:39:44 AM","05/10/2024, 2:39:44 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",23401a58-4e94-4bfa-ac6a-7ab6bc20f755,"05/10/2024, 6:43:41 AM","05/10/2024, 6:43:41 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/09/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/09/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 67,
+  "mIsCompleted" : false
+}"",c67ce7fe-71dc-4b8d-84b1-5e931a2ce2a8,"05/10/2024, 6:45:54 AM","05/17/2024, 3:51:27 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",bf99cbe2-5485-459a-820d-06389563be9f,"05/10/2024, 9:32:04 AM","05/10/2024, 9:32:04 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/09/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/09/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 16380
+}"",7f3f580a-cae1-4796-bc16-2a1317dcb4ea,"05/10/2024, 9:32:04 AM","05/17/2024, 3:42:22 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",c05088c9-2e08-4543-a4ae-7e9b6eef9f96,"05/10/2024, 12:44:18 PM","05/10/2024, 12:44:18 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",69171a27-d6b2-4399-8cbb-ebcb81c14149,"05/10/2024, 3:47:41 PM","05/10/2024, 3:47:41 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"05/03/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25084
+}"",d30df1ad-a6ec-461f-af85-4b86bd819efd,"05/10/2024, 6:58:52 PM","05/10/2024, 6:58:52 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/10/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/10/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 15331
+}"",64c2df4d-0dc6-4560-b3d4-d884502cc926,"05/11/2024, 6:42:23 AM","05/16/2024, 9:39:53 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/10/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/10/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 15331
+}"",65963cb2-234c-4db1-a438-ad26c33a6eb7,"05/11/2024, 6:42:26 AM","05/17/2024, 3:51:26 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/09/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/09/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 16380
+}"",83958dae-ff76-4fea-af62-61dee040ce2d,"05/11/2024, 12:43:56 PM","05/17/2024, 3:42:22 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/12/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/12/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 11168
+}"",70bb1981-4e29-48bc-b924-f52b911b2d52,"05/13/2024, 4:08:42 PM","05/13/2024, 6:42:43 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/12/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/12/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 11168
+}"",470d4ae8-d34c-4a47-9452-4d2b23a698ca,"05/13/2024, 4:08:44 PM","05/13/2024, 6:42:43 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/11/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/11/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 11215
+}"",104a5bef-ef6b-4807-8a72-fdda865af90f,"05/14/2024, 12:26:59 AM","05/19/2024, 3:23:51 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/11/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/11/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 11215
+}"",6bbe0375-1a0f-45c1-be5f-3b7d74fe6311,"05/14/2024, 12:27:04 AM","05/19/2024, 3:22:43 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/13/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/13/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 7199
+}"",a30e8d40-36d6-4378-93a3-d8433285682b,"05/16/2024, 9:39:53 AM","05/20/2024, 5:21:06 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/13/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/13/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 7199
+}"",fa67ac57-50c7-4f92-8a1a-59e0622b315d,"05/16/2024, 9:39:54 AM","05/20/2024, 5:21:08 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/14/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/14/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 6692
+}"",eec24ee8-ec32-4660-b893-7ac5d6584512,"05/17/2024, 4:19:36 AM","05/20/2024, 5:21:08 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/15/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/15/2024, 9:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 8550
+}"",a40235b7-9fc3-40ae-a195-4ebca75e47ae,"05/17/2024, 3:51:26 PM","05/20/2024, 5:21:08 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/16/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/16/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 78,
+  "mIsCompleted" : false
+}"",13bc6bc8-bbe7-43c5-aa8e-12f317ca7326,"05/17/2024, 3:51:27 PM","05/18/2024, 5:15:50 PM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/15/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"05/16/2024, 5:00:00 PM",""{
+  "mTarget" : 6000,
+  "mValue" : 6949
+}"",efc9046c-46fa-432e-8fd1-1a24e4dbcc51,"05/18/2024, 11:37:45 AM","05/18/2024, 11:37:45 AM",
+0,com.sec.android.app.shealth,,-14400000,,,"05/17/2024, 9:00:00 PM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"05/17/2024, 9:00:00 PM",""{
+  "mValue2" : 60,
+  "mValue" : 65,
+  "mIsCompleted" : false
+}"",db8c1d94-79fc-4dea-bdc4-b83cfbfedf80,"05/18/2024, 5:15:50 PM","08/28/2024, 4:15:36 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/27/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11977
+}"",78fa6afe-0d6c-4773-b767-6f0a60821f60,"08/28/2024, 4:13:37 PM","09/03/2024, 2:21:45 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/22/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17677
+}"",f2b95ead-104b-4e24-a851-2458d218217b,"08/28/2024, 4:15:34 PM","08/30/2024, 11:09:23 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/23/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14439
+}"",0bbe0714-1d44-4f6a-b2b8-6af4cd59ede2,"08/28/2024, 4:15:35 PM","08/31/2024, 9:23:36 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/24/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/25/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8784
+}"",f4b2cc19-43fd-40ef-abde-c2554a813690,"08/28/2024, 4:15:35 PM","09/01/2024, 11:27:38 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/25/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9026
+}"",60dc6883-129a-418c-86f2-132ccf3bb880,"08/28/2024, 4:15:35 PM","11/06/2024, 10:10:37 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/28/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"08/28/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 106,
+  "mIsCompleted" : false
+}"",0e079625-1445-4eb4-bd4f-efbe9f2dc74f,"08/28/2024, 4:15:36 PM","08/30/2024, 11:58:55 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/20/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/21/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15950
+}"",a7d73ad1-aad0-425f-86bb-2522229145aa,"08/28/2024, 4:16:02 PM","08/28/2024, 9:37:06 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/21/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8174
+}"",4ea33661-5093-449c-8217-45442911acae,"08/28/2024, 4:16:02 PM","09/02/2024, 8:06:24 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/26/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10366
+}"",0a124d4a-9447-483a-a8b6-3587fd8a26fe,"08/28/2024, 6:29:06 PM","09/03/2024, 2:37:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/28/2024, 12:00:00 AM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"08/28/2024, 12:00:00 AM",""{
+  "mValue2" : 0,
+  "mValue" : 106,
+  "mIsCompleted" : false
+}"",da7ed526-356e-4ece-a397-3bc082d8e76d,"08/28/2024, 6:29:10 PM","08/30/2024, 6:26:22 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/27/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11977
+}"",2fccae37-e67a-4646-aa56-bffb43542cfb,"08/28/2024, 9:37:04 PM","09/03/2024, 2:37:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/22/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/23/2024, 12:00:00 AM",""{
+  "mTarget" : 6000,
+  "mValue" : 17666
+}"",086e1758-aa1d-4af0-ab2f-3d361d4f6ae6,"08/28/2024, 9:37:04 PM","08/30/2024, 11:09:02 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/24/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/25/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 7742
+}"",0b7e84b5-c288-4935-8d22-43a287f463d7,"08/28/2024, 9:37:05 PM","09/01/2024, 11:27:26 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/25/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8297
+}"",112b200f-adfc-43a3-8920-22081dcec127,"08/28/2024, 9:37:05 PM","11/06/2024, 10:10:37 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/26/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9473
+}"",8dd982bb-60db-4190-a323-fd0c60b8dc10,"08/28/2024, 9:37:05 PM","09/03/2024, 2:21:44 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/28/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10137
+}"",ea50261d-1be8-4332-8806-2dd6036fcefd,"08/29/2024, 12:26:25 PM","08/29/2024, 4:16:36 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/28/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11777
+}"",98d0c310-e4c8-4e68-9466-5794f62aed25,"08/29/2024, 12:26:49 PM","09/03/2024, 2:37:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/30/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"08/30/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 122,
+  "mIsCompleted" : false
+}"",1616e4ec-274b-48d6-998e-47766dd51743,"08/30/2024, 11:58:55 AM","09/01/2024, 12:55:03 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/29/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11777
+}"",856060d9-25ef-4989-97f3-1fbb60a472ef,"08/30/2024, 2:59:22 PM","08/30/2024, 11:09:02 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/29/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9563
+}"",bfa12cfb-cdf1-428e-8fb7-19d251505f7d,"08/30/2024, 3:26:28 PM","08/30/2024, 11:09:03 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/30/2024, 12:00:00 AM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"08/30/2024, 12:00:00 AM",""{
+  "mValue2" : 0,
+  "mValue" : 122,
+  "mIsCompleted" : false
+}"",7c8ac96c-049d-4fba-9f8d-d393cb8b199d,"08/30/2024, 6:26:22 PM","12/17/2024, 5:17:23 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/01/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"09/01/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 115,
+  "mIsCompleted" : false
+}"",e249a788-32b8-4455-9ece-88386b58f525,"09/01/2024, 12:55:03 PM","09/02/2024, 7:53:46 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/30/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11738
+}"",0dded350-dea8-4b61-bcdc-aac6fb33a94f,"09/01/2024, 1:04:59 PM","09/06/2024, 12:30:56 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/31/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11431
+}"",af8c8c46-9aed-4bde-b58e-b12c549f7357,"09/01/2024, 1:12:33 PM","09/01/2024, 11:27:30 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/30/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8426
+}"",992a3197-a759-487b-873f-efc103482de2,"09/01/2024, 1:34:28 PM","09/01/2024, 2:15:01 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/31/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11738
+}"",cb563769-5358-4836-8756-8febcf514803,"09/01/2024, 2:02:15 PM","09/01/2024, 11:27:26 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/30/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"08/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11431
+}"",b8b1ac0a-18f3-499c-b826-32e2bb699b83,"09/01/2024, 6:22:10 PM","09/06/2024, 12:30:55 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/01/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/02/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10519
+}"",a1594814-d60c-4bd5-8295-8fc982cb8155,"09/02/2024, 7:53:45 PM","09/02/2024, 9:30:07 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/02/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"09/02/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 88,
+  "mIsCompleted" : false
+}"",0eea6fe1-bb42-4ac8-b9ad-e24f47ec8349,"09/02/2024, 7:53:46 PM","09/03/2024, 2:33:03 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/01/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/02/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10738
+}"",ff7a27b7-b4fc-4eff-905f-de906da562f4,"09/02/2024, 8:06:24 PM","11/07/2024, 8:12:36 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"08/31/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8255
+}"",2305eb90-39fe-4135-9fda-2a833a2c5245,"09/02/2024, 8:10:27 PM","09/02/2024, 8:19:40 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/03/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"09/03/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 64,
+  "mIsCompleted" : false
+}"",c268ac00-ec27-427f-94f5-cd81c7910fcd,"09/03/2024, 2:33:03 PM","11/06/2024, 10:18:12 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/03/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 7966
+}"",d0965abc-ee35-4d3f-b1e6-ea61a1f1bf80,"09/06/2024, 12:30:55 PM","09/08/2024, 12:38:07 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/02/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/03/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 7966
+}"",3c1b5a92-f1b7-4773-b257-fba8b75e01be,"09/06/2024, 12:30:58 PM","11/07/2024, 8:12:37 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/04/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/05/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11588
+}"",02f4e154-9c9a-4e2a-959b-41e22653ee5e,"09/08/2024, 12:38:07 PM","09/11/2024, 12:06:17 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/05/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9888
+}"",15a9e247-a5b4-4389-8229-7fcf6b42fa1c,"09/08/2024, 12:38:07 PM","09/11/2024, 12:06:17 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/04/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/05/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11588
+}"",3eac52d2-9a07-48bf-b0a9-3abcf8d46d10,"09/08/2024, 12:38:09 PM","11/07/2024, 8:12:38 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"09/05/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"09/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9888
+}"",2e16de3c-4ae8-4cbe-822d-88587934fc92,"09/08/2024, 12:38:09 PM","11/07/2024, 8:12:42 AM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/29/1969, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/30/1969, 4:00:00 PM",""{
+  "mTarget" : 0,
+  "mValue" : 0
+}"",c6441472-f0f4-4c71-8902-2c8fde0ca4fc,"11/06/2024, 10:10:34 PM","11/06/2024, 10:10:34 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/29/1969, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/30/1969, 4:00:00 PM",""{
+  "mTarget" : 0,
+  "mValue" : 0
+}"",12b02480-d805-44fd-b5ab-dbba75fe85ea,"11/06/2024, 10:10:34 PM","11/06/2024, 10:10:34 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/10/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/11/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9386
+}"",39efeff7-0a19-436b-b193-ac3082f534ce,"11/06/2024, 10:10:34 PM","11/07/2024, 8:36:20 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/10/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/11/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12599
+}"",e18cc40e-5916-41aa-b9f3-ead2b90c61e4,"11/06/2024, 10:10:35 PM","11/07/2024, 8:36:21 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/11/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9594
+}"",0006b467-d4ae-43ae-8316-b26149736605,"11/06/2024, 10:10:35 PM","11/07/2024, 8:36:20 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/11/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18234
+}"",c74cba21-9695-4652-9918-b016c350aa30,"11/06/2024, 10:10:35 PM","11/07/2024, 8:36:21 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/12/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/13/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9579
+}"",52367ac8-4a85-42b6-997d-5394cb08ac71,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:17 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/12/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/13/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9579
+}"",fb6486d2-a579-4207-8a83-0bbbac457826,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/13/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/14/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16473
+}"",642ecb70-364d-411e-b0e8-663d7e9b65d3,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:17 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/13/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/14/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 32619
+}"",c256d6e9-e407-4212-855b-671b9f1cf12b,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/14/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/15/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 7724
+}"",0644ab84-b11d-4e8b-8864-184964293e10,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:17 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/14/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/15/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14460
+}"",7ee31370-3943-4e43-b229-96ed1401db57,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/15/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13483
+}"",a14fda2a-7f09-486e-bb07-fdc4f0eb0085,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:17 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/15/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 25593
+}"",2d3aa9bd-ddf1-4ed0-9dbe-0f4b28909ee2,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/16/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/17/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14031
+}"",11d1e243-e020-44a4-9039-f9ffd26bd4fe,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:17 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/16/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/17/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14588
+}"",83c72acd-3928-4ad6-bc17-7ea9ef1e67aa,"11/06/2024, 10:10:35 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/17/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/18/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8676
+}"",7bb73208-4f73-4cef-837a-87f0b3abe653,"11/06/2024, 10:10:36 PM","01/01/2025, 8:52:38 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/17/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/18/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10991
+}"",4452b59d-cbb3-4036-8ff2-90325fe3da20,"11/06/2024, 10:10:36 PM","01/01/2025, 8:52:57 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/18/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/19/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16940
+}"",39c4fb7b-b0e5-46da-b528-494c70ffafad,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/18/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/19/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 32289
+}"",47199496-8152-41a8-a35f-a6cc13b07cbb,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/19/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8421
+}"",f7ec470b-cb5c-4c8b-9204-bb488f3c1bbc,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/19/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15783
+}"",f5cbf91e-e39c-4943-9184-3585a2224207,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/20/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/21/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11442
+}"",12c82786-93de-4aa9-a943-0220d8def133,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/20/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/21/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 19724
+}"",816be2ad-efc8-4793-8606-c1affb94ac96,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/21/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8760
+}"",85a33a67-4522-4238-bd2a-3844bac384b2,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/21/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18640
+}"",90b87ca9-e123-48e2-9a20-4983c69c4f9e,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/22/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10536
+}"",214fd493-13b0-4adc-83a1-51f6065866e4,"11/06/2024, 10:10:36 PM","12/07/2024, 5:04:38 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/22/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18153
+}"",d9c33e82-fb3d-43e1-85a3-35031abebb44,"11/06/2024, 10:10:36 PM","12/02/2024, 9:12:04 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/23/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9629
+}"",7ce21ec8-0730-4541-8bf1-520c4b4db841,"11/06/2024, 10:10:36 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/23/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 20547
+}"",4494073a-d3f6-46e1-8a2c-8f3cd9a3973d,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/24/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/25/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17780
+}"",0163f0bb-3fd4-4dbb-a42e-7e22e900304c,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/24/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/25/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 33155
+}"",3a9a6636-36dd-42b1-8d9b-586807f091f6,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/25/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10459
+}"",9107a894-eb50-4af6-87da-ff55ed90c46c,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/25/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14384
+}"",c2951b27-9ac3-415f-98b3-ba8ebdd27a1c,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/26/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9643
+}"",82e55996-21f7-4867-9f2d-bc06eb62455b,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/26/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17360
+}"",72bc702b-c484-4d92-9e41-b68c43e408ee,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/27/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12121
+}"",abc441d5-62a4-4e3d-87e9-2335a83aa527,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/27/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 20999
+}"",e28f6c34-3280-44b9-95ec-1fb771fcb07d,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/28/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9711
+}"",7024aed2-a332-45a1-9a96-994bc8b06fbd,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/28/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13581
+}"",694f74c8-674c-42e4-afb1-ae90fc4b81a3,"11/06/2024, 10:10:37 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/05/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13104
+}"",0747ed63-494d-4473-b36f-a5c6db36b161,"11/06/2024, 10:10:41 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,1202,-14400000,1002,,,,,1202,HuT3voPSBy,169a90d2-9ebf-06d1-df18-7bf1a3b19591,sport.tracker.best.record.pace.lifetime,"08/13/2024, 3:51:42 PM",2.607583,4192a13a-2301-4582-9a29-6be4d92501a9,"11/06/2024, 10:12:26 PM","11/06/2024, 10:12:26 PM",
+0,com.sec.android.app.shealth,1200,-14400000,1002,,,,,1200,HuT3voPSBy,169a90d2-9ebf-06d1-df18-7bf1a3b19591,sport.tracker.best.record.distance.lifetime,"08/13/2024, 3:51:42 PM",5391.725098,66a5211f-f2d2-46e7-a525-6ef084c0621a,"11/06/2024, 10:12:26 PM","11/06/2024, 10:12:26 PM",
+0,com.sec.android.app.shealth,1203,-14400000,1002,,,,,1203,HuT3voPSBy,169a90d2-9ebf-06d1-df18-7bf1a3b19591,sport.tracker.best.record.duration.lifetime,"08/13/2024, 3:51:42 PM",2067710,310bcc7f-4aed-4201-9e70-ae5ef0b715a9,"11/06/2024, 10:12:26 PM","11/06/2024, 10:12:26 PM",
+0,com.sec.android.app.shealth,1205,-14400000,1002,,,,,1205,HuT3voPSBy,169a90d2-9ebf-06d1-df18-7bf1a3b19591,sport.tracker.best.record.calories.lifetime,"08/13/2024, 3:51:42 PM",357.000000,ac7eca29-2dfe-4c51-a6f0-7fa0516f6ff3,"11/06/2024, 10:12:26 PM","11/06/2024, 10:12:26 PM",
+0,com.sec.android.app.shealth,1201,-14400000,1002,,,,,1201,HuT3voPSBy,169a90d2-9ebf-06d1-df18-7bf1a3b19591,sport.tracker.best.record.speed.lifetime,"08/13/2024, 3:51:42 PM",2.844000,89b5e8f3-901f-4dcb-8cd0-69b32f1498d7,"11/06/2024, 10:12:26 PM","11/06/2024, 10:12:26 PM",
+0,com.sec.android.app.shealth,1202,-14400000,1001,,,,,1202,HuT3voPSBy,fee26f4f-a41a-707c-6fa6-67dc29d7b0f5,sport.tracker.best.record.pace.lifetime,"08/06/2024, 10:11:03 AM",1.012346,f07e245b-af79-4b42-a6b4-909397a8c162,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1200,-14400000,1001,,,,,1200,HuT3voPSBy,fee26f4f-a41a-707c-6fa6-67dc29d7b0f5,sport.tracker.best.record.distance.lifetime,"08/06/2024, 10:11:03 AM",2422.717041,a9f7b934-61ad-482e-9b06-c5a7fb69fff3,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1203,-14400000,1001,,,,,1203,HuT3voPSBy,fee26f4f-a41a-707c-6fa6-67dc29d7b0f5,sport.tracker.best.record.duration.lifetime,"08/06/2024, 10:11:03 AM",2393170,48776148-496e-4457-bb1d-a59bcfc1312e,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1205,-14400000,1001,,,,,1205,HuT3voPSBy,fee26f4f-a41a-707c-6fa6-67dc29d7b0f5,sport.tracker.best.record.calories.lifetime,"08/06/2024, 10:11:03 AM",206.000000,0dfe126d-d6fa-4f1c-8872-6a54a9bdd76c,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1201,-14400000,1001,,,,,1201,HuT3voPSBy,fee26f4f-a41a-707c-6fa6-67dc29d7b0f5,sport.tracker.best.record.speed.lifetime,"08/06/2024, 10:11:03 AM",1.751000,5ca67873-658e-4a34-a7fd-214b839be986,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1200,-14400000,13001,,,,,1200,HuT3voPSBy,90f7e983-297f-8cb9-ff6e-d0b01e3bd285,sport.tracker.best.record.distance.lifetime,"08/06/2024, 9:20:36 AM",27.705999,bb8ab460-7f18-4d69-b55c-0fd341ce88ca,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1203,-14400000,13001,,,,,1203,HuT3voPSBy,90f7e983-297f-8cb9-ff6e-d0b01e3bd285,sport.tracker.best.record.duration.lifetime,"08/06/2024, 9:20:36 AM",340480,33855b8b-3353-4130-ae48-c3e12b14aa61,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1205,-14400000,13001,,,,,1205,HuT3voPSBy,90f7e983-297f-8cb9-ff6e-d0b01e3bd285,sport.tracker.best.record.calories.lifetime,"08/06/2024, 9:20:36 AM",45.000000,90ca5248-49d3-43ba-8a2b-6f2563f15722,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,1203,-25200000,14001,,,,,1203,HuT3voPSBy,5ee6c79b-b35b-6668-296a-a16736473b0a,sport.tracker.best.record.duration.lifetime,"08/27/2024, 5:42:22 PM",4648920,d7e245c5-e465-41dc-affa-f0d05f675862,"11/06/2024, 10:18:07 PM","11/06/2024, 10:18:07 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/29/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17171
+}"",1da1b14f-3cb6-485e-aa33-22b9b9074245,"11/06/2024, 10:18:08 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/30/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12103
+}"",c0a2eff3-d4be-4164-a1d7-913bbc948b32,"11/06/2024, 10:18:08 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/31/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 20025
+}"",69dafa8b-092a-4f9c-a594-6aea1bbcefce,"11/06/2024, 10:18:08 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"11/01/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/02/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10840
+}"",f0b80821-fa0e-429e-b4ab-2af8e6dfa1e0,"11/06/2024, 10:18:08 PM","11/10/2024, 2:42:18 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"11/02/2024, 5:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/03/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15466
+}"",78cdea30-c2e4-4785-8116-ec6d2915d5a4,"11/06/2024, 10:18:08 PM","11/10/2024, 8:21:30 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/03/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/04/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8526
+}"",f0bf6969-9627-43d6-b984-48bd79e428d0,"11/06/2024, 10:18:08 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/04/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/05/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12406
+}"",43e45832-22bb-4465-ad2c-70735db3f728,"11/06/2024, 10:18:08 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/29/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 29893
+}"",22af8645-5358-4c7b-afa8-ed18c4e80581,"11/06/2024, 10:18:11 PM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/30/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14071
+}"",94f9c8c3-8a61-4556-a059-324194808170,"11/06/2024, 10:18:11 PM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/31/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 23410
+}"",9cf36282-4ee3-49e0-874c-8d87b2d0c523,"11/06/2024, 10:18:11 PM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"11/01/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/02/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11354
+}"",c7ebcdb6-2247-44a8-a698-6666025b75e7,"11/06/2024, 10:18:11 PM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"11/02/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/03/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16149
+}"",34892667-51ef-4cd6-8d2e-7df1bd9c4fca,"11/06/2024, 10:18:11 PM","11/10/2024, 8:21:50 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/03/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/04/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8713
+}"",8e855282-84e6-4e70-b4d5-db418520dc25,"11/06/2024, 10:18:12 PM","12/02/2024, 9:12:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/04/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/05/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14118
+}"",77be3a59-c925-40b6-a15f-c4a2e5f856ab,"11/06/2024, 10:18:12 PM","12/02/2024, 9:12:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/06/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/06/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 122,
+  "mIsCompleted" : false
+}"",afd7b546-67b2-4fab-8504-a7ea4b1b8bdf,"11/06/2024, 10:18:12 PM","11/07/2024, 11:57:14 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/29/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14097
+}"",503ba453-b2bf-4262-9aea-0ca42a357b31,"11/07/2024, 8:12:35 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/30/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9703
+}"",ac9e13b3-b061-4ea2-b92b-5278112c08da,"11/07/2024, 8:12:35 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/31/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 19377
+}"",8e39e319-f126-4969-a149-8e083fa85a8d,"11/07/2024, 8:12:35 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/29/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"10/30/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 29893
+}"",cb33390f-2c0f-4fff-8922-4dce698bc35d,"11/07/2024, 8:13:15 AM","11/07/2024, 8:13:15 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/13/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"10/14/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 32619
+}"",890ee7fa-c110-4116-902b-a9a4d52a7844,"11/07/2024, 8:36:21 AM","11/07/2024, 8:36:21 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/24/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"10/25/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 33155
+}"",e344b640-e82f-437c-ba89-60a616f3570b,"11/07/2024, 8:36:22 AM","11/07/2024, 8:36:22 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/11/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/12/2024, 5:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 9449
+}"",263ec640-623e-4492-9048-8ee4b9a12b3d,"11/07/2024, 8:36:23 AM","11/07/2024, 8:36:23 AM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/13/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/14/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17954
+}"",9a3d9c2d-add0-40a0-af88-b06ccbb9c44f,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/15/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13634
+}"",39b111b4-16aa-4f58-9d7e-2f9292686f18,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/18/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/19/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16848
+}"",973bd386-cd6c-4935-87da-0cd75c784635,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/19/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8116
+}"",ed5db738-2441-4aab-ac64-52498d7fe6a5,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/20/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/21/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9333
+}"",f8809faf-3e0b-4d88-b00f-60b94ddbee25,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/21/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11042
+}"",867f492e-040a-4d59-baa6-fefaa7639bc1,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/22/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8504
+}"",e573d968-a262-471c-bc4a-3278c1faaafd,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/23/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12014
+}"",a4951c34-84a9-447b-93cd-2c87fd4ed52c,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/24/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/25/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16961
+}"",120fa139-68c0-47d2-9fae-ab42097143cc,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/26/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8449
+}"",0f054b63-4cd0-457b-bd87-272697ea0dc7,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/27/2024, 5:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"10/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9884
+}"",64894b85-f942-4584-88a9-0b5589b80656,"11/07/2024, 8:36:23 AM","11/10/2024, 2:42:20 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/07/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/07/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 147,
+  "mIsCompleted" : false
+}"",2d3f7626-fb56-44e8-88cd-8cc751b3c033,"11/07/2024, 11:57:14 AM","11/08/2024, 7:55:25 AM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/06/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/07/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17282
+}"",fa3478d2-4492-429f-b1d0-03755b4653a6,"11/07/2024, 12:00:49 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/05/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16013
+}"",0c7745cf-e03d-47ec-a172-fc27f777d288,"11/07/2024, 12:00:50 PM","12/02/2024, 9:12:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/05/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14391
+}"",5746ab50-d21d-455a-9b2e-f5b99ad75da7,"11/07/2024, 12:04:38 PM","12/02/2024, 9:12:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/06/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/07/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18061
+}"",4ab3ba92-c458-463f-a441-6d5981f9c694,"11/07/2024, 1:07:38 PM","12/02/2024, 9:12:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/08/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/08/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 197,
+  "mIsCompleted" : false
+}"",430e7311-af6d-4970-8202-139761cb44ec,"11/08/2024, 7:55:25 AM","11/09/2024, 6:53:29 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/07/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/08/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17282
+}"",8b88ce8d-9ffa-440d-91de-be15d46b440d,"11/08/2024, 8:30:32 AM","11/08/2024, 11:09:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/07/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/08/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18061
+}"",a9be4211-893d-4f7c-ad3b-e6740eecf300,"11/08/2024, 8:30:38 AM","11/08/2024, 11:09:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/06/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/07/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17080
+}"",4c733a97-54d2-4ac2-bb7a-bf81e59b0d0b,"11/08/2024, 8:30:48 AM","12/02/2024, 9:12:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/09/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/09/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 110,
+  "mIsCompleted" : false
+}"",d29bb354-20a8-4b12-b094-abc96d3f9061,"11/09/2024, 6:53:29 PM","11/10/2024, 12:55:52 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/08/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/09/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14075
+}"",53f2bb09-747e-4599-84f1-b67d1497db74,"11/09/2024, 7:12:01 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/07/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/08/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9598
+}"",aa57df9e-05c8-4969-85b4-ff6a05880176,"11/09/2024, 7:16:41 PM","12/02/2024, 9:12:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/08/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/09/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15133
+}"",f1dce20b-00e7-4089-940f-fc5fb0f4d2c4,"11/09/2024, 9:18:32 PM","12/02/2024, 9:12:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/10/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/10/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 165,
+  "mIsCompleted" : false
+}"",c554bf64-d187-4d12-9bf5-4edac36d304e,"11/10/2024, 12:55:52 PM","11/11/2024, 4:07:49 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/09/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/10/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14059
+}"",81ea1c0a-d511-441d-a15d-f3c183decc0e,"11/10/2024, 1:12:43 PM","11/10/2024, 8:21:35 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/08/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/09/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14310
+}"",ff19d3c1-15da-4a64-99a4-f082b1a9351c,"11/10/2024, 1:12:44 PM","12/02/2024, 9:12:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/09/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/10/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15117
+}"",bf912338-8d79-4929-a7e2-254b1e888ce8,"11/10/2024, 1:12:44 PM","11/10/2024, 8:21:30 PM",
+0,com.sec.android.app.shealth,1205,-28800000,14001,,,,,1205,HuT3voPSBy,9d840e66-d9a7-7338-2280-b54048c4b305,sport.tracker.best.record.calories.lifetime,"11/08/2024, 6:54:28 AM",228.000000,6d1a2b4f-1b12-4c5e-9021-60755c520b7c,"11/10/2024, 2:42:17 PM","11/10/2024, 2:42:17 PM",
+0,com.sec.android.app.shealth,,-25200000,,,"10/24/2024, 5:00:00 PM",100003,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"10/25/2024, 5:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 33155
+}"",16ef700d-5b49-4d19-981c-f481c8bd0d5c,"11/10/2024, 2:42:19 PM","11/10/2024, 2:42:19 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/11/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/11/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 169,
+  "mIsCompleted" : false
+}"",3796a4e7-1ec5-42ad-b49e-565b77301fdb,"11/11/2024, 4:07:49 PM","11/12/2024, 2:30:18 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/10/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/11/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14056
+}"",c878e886-b175-464f-bdd3-51b75de63efb,"11/11/2024, 5:01:02 PM","11/11/2024, 9:26:30 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/10/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/11/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12014
+}"",401b56a6-3849-4125-a276-db4260348d60,"11/11/2024, 6:14:49 PM","11/11/2024, 9:26:31 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/09/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/10/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10629
+}"",9c19ef1c-bceb-4ab3-8d6f-1d20089316bc,"11/11/2024, 6:29:49 PM","12/02/2024, 9:12:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/12/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/12/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 68,
+  "mIsCompleted" : false
+}"",1fd956d7-d675-4a1e-b103-7daac8146bd3,"11/12/2024, 2:30:18 PM","11/13/2024, 2:18:33 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/11/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18051
+}"",8562d2c6-8ff4-4b92-926a-034491aeba7d,"11/12/2024, 11:38:58 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/11/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 19256
+}"",305d350d-1e8f-4974-b608-67481b376bb9,"11/12/2024, 11:39:09 PM","12/02/2024, 9:12:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/13/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"11/13/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 133,
+  "mIsCompleted" : false
+}"",92f7d393-fd16-4009-af01-c3640e640c8c,"11/13/2024, 2:18:33 PM","12/02/2024, 9:12:05 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/12/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/13/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14528
+}"",1608b9f2-1a79-46bd-8f0f-74002517d380,"11/13/2024, 2:28:37 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/11/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13469
+}"",f8f8fd28-dc01-4db4-bead-6f2aa860d709,"11/13/2024, 2:31:58 PM","12/02/2024, 9:12:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/12/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/13/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14807
+}"",2e6b41cb-7a74-48d1-b3c4-a8c53b84afd0,"11/13/2024, 3:28:27 PM","11/13/2024, 6:21:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/13/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/14/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13983
+}"",42d03ea3-5b38-45f3-8342-7daeb292bead,"12/02/2024, 8:57:11 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/13/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/14/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13983
+}"",2cce5eee-1cde-47c2-8da9-e35c516079b6,"12/02/2024, 8:57:11 PM","12/02/2024, 9:12:02 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/14/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/15/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 25937
+}"",aaede242-aa64-4bdb-9851-70c1d2f5f799,"12/02/2024, 8:57:11 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/14/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_most_walking_day,HuT3voPSBy,,tracker.pedometer,"11/15/2024, 4:00:00 PM",""{
+  "mTarget" : -1,
+  "mValue" : 25937
+}"",e3182141-129b-40b8-a2e7-433f57b7b174,"12/02/2024, 8:57:11 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/14/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/15/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 25937
+}"",f328f06a-af32-4fb6-be26-52fe3a308b69,"12/02/2024, 8:57:11 PM","12/02/2024, 9:12:02 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/15/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11701
+}"",aca332b7-b9d4-4602-8179-ed10acf0273a,"12/02/2024, 8:57:11 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/15/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11701
+}"",a5ba0211-7fb2-4516-90c2-e3d622f0477a,"12/02/2024, 8:57:11 PM","12/02/2024, 9:12:02 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/16/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/17/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12652
+}"",4e54581a-736f-46f2-93a0-04f2529378ca,"12/02/2024, 8:57:11 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/16/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/17/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12652
+}"",e20ade64-aca4-4f8f-9372-202a449903d6,"12/02/2024, 8:57:12 PM","12/02/2024, 9:12:02 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/17/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/18/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15000
+}"",24a0f064-88dc-43e7-ad8f-6b1fbfb0f922,"12/02/2024, 8:57:12 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/17/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/18/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15000
+}"",8e7cef3b-a26c-4bcf-9ac2-ffac0f05b3d7,"12/02/2024, 8:57:12 PM","12/02/2024, 9:12:02 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/18/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/19/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12550
+}"",7c297ab3-2f7c-463b-98ce-eaa1e4cbb8bb,"12/02/2024, 8:57:12 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/18/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/19/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12550
+}"",30d9d226-d9ce-4ffd-af8c-65dc73ea2eb9,"12/02/2024, 8:57:12 PM","12/02/2024, 9:12:02 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/19/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13219
+}"",c49786bc-4fdf-4dc9-8e51-e34f886b90b6,"12/02/2024, 8:57:12 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/19/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13219
+}"",b7e3a133-8524-4d01-a209-8fcbc888c1bd,"12/02/2024, 8:57:12 PM","12/02/2024, 9:12:02 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/21/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18858
+}"",7430066e-2eca-450d-9d4f-3d3ace13a4db,"12/02/2024, 8:57:13 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/21/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18858
+}"",6f691879-af41-4d00-8ecd-42bacaeb29cd,"12/02/2024, 8:57:13 PM","12/02/2024, 9:12:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/22/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 20492
+}"",0e66d86a-b11c-43d8-a9b2-eb00dbcb34b1,"12/02/2024, 8:57:13 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/22/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 20492
+}"",3cb5c0cd-6a55-42a5-a4dc-ec8b4b6f1894,"12/02/2024, 8:57:13 PM","12/02/2024, 9:12:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/23/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12718
+}"",f3ab53bc-be24-47fa-a2e1-3450c3e01f66,"12/02/2024, 8:57:13 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/23/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12718
+}"",7a858304-a5d9-46a5-a0b3-bd3aa3a8004f,"12/02/2024, 8:57:13 PM","12/02/2024, 9:12:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/01/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/02/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11825
+}"",6e639b94-c801-4de5-87a6-c290e0519729,"12/02/2024, 8:57:17 PM","12/02/2024, 9:10:14 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/24/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/25/2024, 4:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 16878
+}"",809294b2-8d00-4c1c-9c47-b841732f25d7,"12/02/2024, 9:11:58 PM","12/02/2024, 9:11:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/25/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15517
+}"",f1f0c038-3a75-4705-af74-eafce3481f4f,"12/02/2024, 9:11:58 PM","12/03/2024, 7:02:42 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/26/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9759
+}"",fd2c31cf-c8ef-4595-b421-6600cc2c4160,"12/02/2024, 9:11:59 PM","12/04/2024, 11:01:04 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/27/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14521
+}"",926b7f1a-5def-42b3-aaf8-0452f1f5505b,"12/02/2024, 9:11:59 PM","12/05/2024, 11:16:39 AM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/28/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8007
+}"",0527ab98-5918-450c-90b0-0871f958e3ac,"12/02/2024, 9:11:59 PM","12/06/2024, 4:19:41 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/29/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21648
+}"",096f73b6-2359-4b57-b355-e43a88fb0af9,"12/02/2024, 9:11:59 PM","12/07/2024, 11:01:46 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/30/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11868
+}"",499d4fc9-3bd6-40af-9483-de1709a83f98,"12/02/2024, 9:11:59 PM","12/08/2024, 9:32:26 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/24/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/25/2024, 4:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 16878
+}"",8543e82d-c72a-4a47-9c58-1431a4e18c51,"12/02/2024, 9:12:03 PM","12/02/2024, 9:12:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/25/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16643
+}"",507c6b54-8660-41eb-bf36-5f5a15342af5,"12/02/2024, 9:12:03 PM","12/03/2024, 7:03:59 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/26/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11069
+}"",e91dea3f-98dd-42cf-9965-91a52bc5a79a,"12/02/2024, 9:12:03 PM","12/04/2024, 11:01:05 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/27/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14866
+}"",5d51efc5-3730-4f0b-bd05-8e96353b616b,"12/02/2024, 9:12:04 PM","12/05/2024, 11:16:42 AM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/28/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9718
+}"",1e60e80e-ca1b-4b33-beec-66e5e2bb8f7e,"12/02/2024, 9:12:04 PM","12/06/2024, 4:19:43 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/29/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"11/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 22572
+}"",98741f2e-e8bd-45e6-be92-48fe67f7ad48,"12/02/2024, 9:12:04 PM","12/07/2024, 11:01:47 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"11/30/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/01/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12528
+}"",1443b273-10a5-48c5-9aee-a93267c5d049,"12/02/2024, 9:12:04 PM","12/08/2024, 11:00:45 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/02/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/02/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 117,
+  "mIsCompleted" : false
+}"",591f303e-5a89-41ff-8364-86db630a3161,"12/02/2024, 9:12:05 PM","12/04/2024, 11:26:09 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/02/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/03/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9001
+}"",7589ccbf-82fc-4d01-9d39-7f8479b2d767,"12/03/2024, 7:02:25 PM","12/03/2024, 7:04:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/02/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/03/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9618
+}"",849c8450-7ff8-4215-925e-154792dcc27c,"12/03/2024, 7:02:42 PM","12/10/2024, 6:46:11 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/01/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/02/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10773
+}"",37ba3a6e-6778-44fa-a9ed-1dec6faeba2d,"12/03/2024, 7:02:47 PM","12/09/2024, 5:57:15 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/03/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/04/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21939
+}"",eb2e356e-d936-4f03-bf0f-0aa563c0b33f,"12/04/2024, 11:00:58 PM","12/11/2024, 5:53:45 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/03/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/04/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 22766
+}"",14973232-20d5-4365-a24d-3d8be8a2ef93,"12/04/2024, 11:01:04 PM","12/11/2024, 5:53:48 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/02/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/03/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 7861
+}"",c9df8ae2-32c0-4941-a09a-6e5c1de14420,"12/04/2024, 11:26:07 PM","12/05/2024, 11:16:58 AM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/04/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/04/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 98,
+  "mIsCompleted" : false
+}"",bd39600c-604f-4035-98d0-12260b6eabac,"12/04/2024, 11:26:09 PM","12/07/2024, 2:11:29 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/03/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/04/2024, 4:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 21713
+}"",3c297708-8625-48ad-b2fe-d32469f2240f,"12/06/2024, 10:00:19 AM","12/06/2024, 10:00:19 AM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/05/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12639
+}"",05bac856-4db5-498f-9f16-1fd713f2eaac,"12/06/2024, 4:19:33 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/05/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14308
+}"",f3a19d32-e2e8-4739-b181-1432b808537c,"12/06/2024, 4:19:41 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/04/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/05/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12875
+}"",230289bd-77d7-4ef0-8058-d116f3cd1c2a,"12/06/2024, 4:19:42 PM","12/12/2024, 10:59:55 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/04/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/05/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14312
+}"",6fcf4648-3d12-486f-bc62-8468e6998e73,"12/06/2024, 4:19:46 PM","12/12/2024, 10:59:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/07/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/07/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 95,
+  "mIsCompleted" : false
+}"",8785c575-1efe-4ceb-ae20-059c707d6513,"12/07/2024, 2:11:29 PM","12/08/2024, 8:46:23 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/06/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/07/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 20341
+}"",f34b83db-7558-442e-a53d-c52a44f18a9b,"12/07/2024, 5:04:38 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/06/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/07/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21415
+}"",700563b1-ac37-46aa-a0a2-c0343919e36f,"12/07/2024, 5:04:48 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/05/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/06/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12367
+}"",58d72dff-a76c-4dcc-9da4-3a61db0d071b,"12/07/2024, 6:09:17 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/07/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/08/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 20341
+}"",a70922a3-a915-4f76-90bc-93231d508c4b,"12/08/2024, 4:36:33 PM","12/08/2024, 11:00:44 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/07/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/08/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21376
+}"",3c579289-5ff1-4c60-a4f2-3efc80e0ddef,"12/08/2024, 4:36:37 PM","12/08/2024, 9:32:26 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/06/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/07/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17241
+}"",9528b9da-edb1-4da1-81df-5db8b2c3d1be,"12/08/2024, 8:46:20 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/08/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/08/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 191,
+  "mIsCompleted" : false
+}"",0b1d3a3a-058f-4f0e-8694-871e65de0925,"12/08/2024, 8:46:23 PM","12/09/2024, 5:22:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/09/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/09/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 71,
+  "mIsCompleted" : false
+}"",c0679134-46cc-483c-bf38-74c04e40cf53,"12/09/2024, 5:22:01 PM","12/10/2024, 3:12:25 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/08/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/09/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11408
+}"",e9a52de8-6316-4c89-a41d-9acfacce14c9,"12/09/2024, 8:30:34 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/08/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/09/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12367
+}"",87fa39e1-3bb7-4c92-b7a6-af00deaf54e1,"12/09/2024, 8:30:40 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/07/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/08/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10720
+}"",f2595ffe-e3f1-483c-80bc-d4a3623f6dcf,"12/10/2024, 8:57:10 AM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/10/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/10/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 81,
+  "mIsCompleted" : false
+}"",1b10e7c6-38bf-474c-8e53-79bae4b0585d,"12/10/2024, 3:12:25 PM","12/13/2024, 5:14:20 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/09/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/10/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18864
+}"",0e541acf-d500-43ca-9333-af6d81ca45a3,"12/10/2024, 3:31:36 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/09/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/10/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 19613
+}"",98f31e68-476a-4385-999a-088258279371,"12/10/2024, 4:48:41 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/10/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/11/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15240
+}"",55682d19-5c6a-42ed-bd94-5dd918e0a441,"12/11/2024, 5:53:41 PM","12/11/2024, 9:28:17 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/10/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/11/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13472
+}"",c57f98e5-bc97-4e04-a644-03bf2d8512f3,"12/11/2024, 5:53:46 PM","12/11/2024, 5:53:46 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/13/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/13/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 104,
+  "mIsCompleted" : false
+}"",9e81b382-bc5d-456b-9550-c8f98f68cd00,"12/13/2024, 5:14:20 PM","12/14/2024, 4:35:06 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/12/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/13/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12669
+}"",540bd516-0751-4af9-8768-3da99051a9ad,"12/13/2024, 5:17:34 PM","12/13/2024, 10:59:25 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/11/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12922
+}"",4aa0da19-a52b-4106-8a46-29d758e1b066,"12/13/2024, 5:17:36 PM","01/03/2025, 1:58:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/12/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/13/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12882
+}"",b02d53a6-0afb-403d-9b03-b239d44c742e,"12/13/2024, 7:29:58 PM","12/13/2024, 10:59:25 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/11/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12709
+}"",14afc5cf-3e8c-407e-92eb-3eafc11cfb3b,"12/13/2024, 7:29:58 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/11/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/12/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 7561
+}"",ec04a9e5-683f-48e6-9204-f9d6d9eae81d,"12/13/2024, 8:55:04 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/14/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/14/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 112,
+  "mIsCompleted" : false
+}"",81d009c3-b96b-47c3-ae42-c4f894d39457,"12/14/2024, 4:35:06 PM","12/16/2024, 3:25:34 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/13/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/14/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11552
+}"",94cf1f5f-a475-42d4-8ac3-06c6a3bcc991,"12/14/2024, 4:57:50 PM","12/14/2024, 11:55:46 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/13/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/14/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11277
+}"",7b121583-8f67-4591-b467-eef0878fe839,"12/14/2024, 4:58:42 PM","12/14/2024, 11:55:50 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/12/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/13/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10816
+}"",6513108b-c67c-448a-be48-b0edd900cde0,"12/14/2024, 5:02:52 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/16/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/16/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 96,
+  "mIsCompleted" : false
+}"",cb347e5b-a059-4a21-8785-d48a3c23d0cd,"12/16/2024, 3:25:34 PM","12/17/2024, 2:00:54 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/14/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/15/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 9246
+}"",4049f04f-e272-48af-bb68-042d49d2410c,"12/16/2024, 7:05:00 PM","01/03/2025, 1:58:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/15/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17419
+}"",c4e9760a-388e-4105-93fa-9a37a11316c4,"12/16/2024, 7:12:36 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/15/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18682
+}"",dfe873ca-e80d-4004-865b-818a01cea5fd,"12/16/2024, 9:21:03 PM","01/03/2025, 1:58:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/14/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/15/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8204
+}"",4b32d50b-3f77-4cd3-b330-a6a773075d61,"12/16/2024, 9:21:03 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/16/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/17/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17684
+}"",fb31d4e1-9fae-4ada-af0e-9567c4c92657,"12/17/2024, 2:00:33 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/16/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/17/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 18682
+}"",985f707d-a85d-49a8-a3ee-79bdd7b2b0c8,"12/17/2024, 2:00:40 PM","12/17/2024, 10:35:26 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/17/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/17/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 181,
+  "mIsCompleted" : false
+}"",fb362592-942c-4229-9c5c-fd0f0dc5f52c,"12/17/2024, 2:00:54 PM","12/18/2024, 1:57:02 PM",
+1,com.sec.android.app.shealth,,-28800000,,,"12/17/2024, 12:00:00 AM",,,goal_activity_reward_most_active_day,HuT3voPSBy,,goal.activity,"12/17/2024, 12:00:00 AM",""{
+  "mValue2" : 0,
+  "mValue" : 181,
+  "mIsCompleted" : false
+}"",cb34e18f-8f25-4521-9398-db8004d640e2,"12/17/2024, 5:17:23 PM","12/17/2024, 9:59:23 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/15/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/16/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14922
+}"",65d92b75-1e48-4822-90f0-d2e93baafd4b,"12/17/2024, 7:02:28 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/17/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/18/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17684
+}"",5815a1dd-74db-4574-acde-905c5b619756,"12/18/2024, 1:56:58 PM","12/18/2024, 11:40:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/18/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/18/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 156,
+  "mIsCompleted" : false
+}"",78747b42-2524-48d2-b469-4edc4d08e2e9,"12/18/2024, 1:57:02 PM","12/19/2024, 11:52:37 AM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/17/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/18/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17906
+}"",863e230f-1db0-4dc8-8a5b-7185d0b69db2,"12/18/2024, 11:40:56 PM","12/18/2024, 11:40:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/16/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/17/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8356
+}"",dd0015a1-98c5-468b-b37e-2a4fadb1025a,"12/18/2024, 11:44:49 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/19/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/19/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 90,
+  "mIsCompleted" : false
+}"",4df14b48-1a89-4f13-84f6-1fd90e3d34ee,"12/19/2024, 11:52:37 AM","12/20/2024, 5:35:58 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/18/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/19/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 11167
+}"",8f93ad27-3e9d-4de6-9afd-1b3a2e365a52,"12/19/2024, 7:58:43 PM","12/19/2024, 10:58:23 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/18/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/19/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 12008
+}"",b24286dc-1ab9-4164-9b47-84c38fb19908,"12/19/2024, 7:58:48 PM","12/19/2024, 10:58:22 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/17/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/18/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8096
+}"",5d30084c-4605-47ce-9efd-0b1b9f6bf105,"12/20/2024, 12:19:37 AM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/20/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/20/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 66,
+  "mIsCompleted" : false
+}"",02e2d4b5-dfdb-43fd-8dda-e4643eec9676,"12/20/2024, 5:35:58 PM","12/21/2024, 2:43:10 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/19/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14965
+}"",6f41339a-1fc0-449c-94d6-28fd48001c43,"12/20/2024, 7:59:42 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/19/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15594
+}"",53c56cdf-9eae-41c4-b2cb-d6c391aa0d06,"12/20/2024, 7:59:48 PM","01/03/2025, 1:58:59 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/20/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/21/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21558
+}"",ebba12c0-b579-41d3-b98a-85c0cff2def5,"12/21/2024, 1:58:18 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/20/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/21/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 22466
+}"",57f222a0-1713-4fa5-8c95-efc740dfb976,"12/21/2024, 1:58:24 PM","01/03/2025, 1:58:59 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/19/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/20/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 13810
+}"",f6a93757-d2f8-49c6-85ae-5d19ac9b8dec,"12/21/2024, 2:43:08 PM","01/03/2025, 1:59:01 PM",
+1,com.sec.android.app.shealth,,-28800000,,,"12/21/2024, 12:00:00 AM",,,goal_activity_reward_goal_achieved,HuT3voPSBy,,goal.activity,"12/21/2024, 12:00:00 AM",""{
+  "mValue2" : 60,
+  "mValue" : 79,
+  "mIsCompleted" : false
+}"",50cae25f-ebf8-425d-8e14-0fe6dafcd569,"12/21/2024, 2:43:10 PM","12/21/2024, 2:43:10 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/21/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21558
+}"",9782b998-b178-4a83-b2da-0698b3ab2c66,"12/22/2024, 2:03:30 PM","12/22/2024, 11:32:19 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/21/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/22/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21626
+}"",0c6b17cd-c6d6-4cb5-b3a4-bae4b46e391d,"12/22/2024, 2:03:30 PM","12/22/2024, 11:32:19 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/20/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/21/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17729
+}"",a03f9d67-f253-4b67-b7a5-4332410e96da,"12/23/2024, 12:00:22 AM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/22/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8989
+}"",56f4bfd4-1f20-4867-b64d-daee145f6635,"12/23/2024, 11:09:44 PM","12/23/2024, 11:09:48 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/22/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/23/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 8989
+}"",a54d9433-2b70-4c6e-bc64-091a452b9696,"12/23/2024, 11:09:48 PM","12/23/2024, 11:09:48 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/23/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16081
+}"",07e07354-7141-484f-a0cb-986685a23180,"12/24/2024, 10:57:50 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/23/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/24/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16081
+}"",942fa2da-2b18-48cc-b129-6314918971fe,"12/24/2024, 10:57:56 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/24/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/25/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15952
+}"",c9fc817e-9cc1-4542-8e44-ff5fc47953d1,"12/25/2024, 8:27:44 PM","12/25/2024, 8:28:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/24/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/25/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15952
+}"",90091732-6b5f-4dce-bc36-8ce9d618c653,"12/25/2024, 8:28:03 PM","12/25/2024, 8:28:03 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/26/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16501
+}"",262dbb96-7a8d-47cb-b006-76cb0f61b234,"12/27/2024, 4:58:24 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/26/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/27/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 16501
+}"",b8f4f737-ebcc-4b0c-bc1e-af2f03fdc2c6,"12/27/2024, 4:58:31 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/25/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14064
+}"",1dc73d66-0ae0-4280-a7dc-1f8796274f01,"12/27/2024, 4:58:31 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/25/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/26/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14064
+}"",e708b5a4-7aac-4c9e-bd1e-55eb34655303,"12/27/2024, 4:58:36 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/27/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14884
+}"",8e426690-5b92-48e8-8c83-2bfd34cd20f5,"12/28/2024, 1:57:05 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/27/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/28/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 17426
+}"",361ca7a9-8f98-435f-b3e2-a5b8aa07eef2,"12/28/2024, 1:57:12 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/28/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10435
+}"",c61bc559-1008-495d-b20a-b96a2feb9921,"12/29/2024, 2:56:22 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/28/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/29/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10435
+}"",011de010-50ad-4fce-b983-9dc285e4ae23,"12/29/2024, 2:56:29 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/29/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14530
+}"",66daab11-d7b8-4571-b3e7-c5a3fa10e8ca,"12/30/2024, 8:04:29 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/29/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/30/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 15130
+}"",c5d2584f-9305-4027-be7a-e0e90a691815,"12/30/2024, 8:04:51 PM","01/03/2025, 1:59:00 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/30/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14530
+}"",cdce3bed-49e1-461f-8041-0cf5aa9825b7,"12/31/2024, 1:57:12 PM","12/31/2024, 9:47:41 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/30/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/31/2024, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 14530
+}"",926ff990-17ef-4d91-b9f9-d48044203082,"12/31/2024, 1:57:17 PM","12/31/2024, 9:47:40 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/31/2024, 4:00:00 PM",10009,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"01/01/2025, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 10158
+}"",b3a694f0-a53c-40cc-86ac-947f20760ecb,"01/01/2025, 8:52:42 PM","01/03/2025, 1:58:57 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/31/2024, 4:00:00 PM",100003,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"01/01/2025, 12:00:00 AM",""{
+  "mTarget" : 7500,
+  "mValue" : 21213
+}"",aff904ca-8d59-4f92-942c-02c2ac88a86e,"01/01/2025, 8:52:57 PM","01/03/2025, 1:59:00 PM",
+1,com.sec.android.app.shealth,3000,-28800000,1002,,,,,3000,HuT3voPSBy,d329f206-ec5f-f019-c674-f608f399e3b8,sport.tracker.accumulated.distance.running,"12/21/2024, 8:59:36 AM",2,a6314846-3b78-41c4-ba98-db6af1b7292e,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,1203,-28800000,10007,,,,,1203,HuT3voPSBy,c64592e4-e882-7e07-d294-730f7967f55a,sport.tracker.best.record.duration.lifetime,"11/10/2024, 5:37:20 PM",1378130,120dece8-b7aa-41d1-9b8e-e688133c526c,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,1205,-28800000,10007,,,,,1205,HuT3voPSBy,c64592e4-e882-7e07-d294-730f7967f55a,sport.tracker.best.record.calories.lifetime,"11/10/2024, 5:37:20 PM",200.000000,993c84c8-6499-491b-8835-181a308c3805,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,1203,-28800000,10007,,,,,1203,HuT3voPSBy,b35bffb4-45e7-6c9c-6b86-0b3d2ca747df,sport.tracker.best.record.duration.lifetime,"11/11/2024, 3:29:33 PM",1990610,5b7e99a3-5412-4852-80e1-b41760679eaa,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,1205,-28800000,10007,,,,,1205,HuT3voPSBy,b35bffb4-45e7-6c9c-6b86-0b3d2ca747df,sport.tracker.best.record.calories.lifetime,"11/11/2024, 3:29:33 PM",205.000000,7a1c952c-c07e-45ab-91c8-09990ea60f05,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,1205,-28800000,10007,,,,,1205,HuT3voPSBy,d89d4621-7ad6-a7b7-bcf7-f7b52aaf7f50,sport.tracker.best.record.calories.lifetime,"11/13/2024, 7:58:13 PM",208.000000,37d1ff9f-46e1-4b87-a7fc-060009fce8fc,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,1203,-28800000,10007,,,,,1203,HuT3voPSBy,ec40bc02-9669-32d4-e84e-4fb5e169f1d5,sport.tracker.best.record.duration.lifetime,"11/15/2024, 8:35:07 AM",4407380,b1f4a91d-4728-4ab0-8c3f-42f83062349e,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,1205,-28800000,10007,,,,,1205,HuT3voPSBy,ec40bc02-9669-32d4-e84e-4fb5e169f1d5,sport.tracker.best.record.calories.lifetime,"11/15/2024, 8:35:07 AM",559.000000,e959b4c9-0247-4f75-86df-e41e62dcc70d,"01/03/2025, 1:58:56 PM","01/03/2025, 1:58:56 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/09/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/10/2024, 4:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 15148
+}"",3804d7b3-8ffa-4d9f-bc78-490a3ab391c6,"01/03/2025, 1:59:01 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/27/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/28/2024, 4:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 16858
+}"",4df5e71a-4c37-46d0-804f-7e4e9dbaeef7,"01/03/2025, 1:59:01 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/29/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"12/30/2024, 4:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 12153
+}"",8ae22f1a-8171-4396-add9-ceea3e5ed2b3,"01/03/2025, 1:59:01 PM","01/03/2025, 1:59:01 PM",
+0,com.sec.android.app.shealth,,-28800000,,,"12/31/2024, 4:00:00 PM",2399999,,tracker_pedometer_reward_target_achieved,HuT3voPSBy,,tracker.pedometer,"01/01/2025, 4:00:00 PM",""{
+  "mTarget" : 7500,
+  "mValue" : 20104
+}"",5c0f4f2e-977d-4957-b636-a29281a7917d,"01/03/2025, 1:59:01 PM","01/03/2025, 1:59:01 PM",
+

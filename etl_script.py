@@ -67,6 +67,7 @@ try:
 except Exception as e:
     print(f"An error occurred: {e}")
 
+print(polar_data_df.head(1))
 map_my_run_df['datetime'] = map_my_run_df['time'].apply(convert_nanoseconds_to_datetime)
 
 polar_data_df['datetime'] = polar_data_df['real_time'].apply(convert_nanoseconds_to_datetime)

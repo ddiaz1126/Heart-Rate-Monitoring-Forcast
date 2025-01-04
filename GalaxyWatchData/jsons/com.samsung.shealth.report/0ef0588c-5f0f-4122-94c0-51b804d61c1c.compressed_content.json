@@ -1,0 +1,272 @@
+{
+  "mPeriod" : "December 8 - 14",
+  "mNoData" : "No data",
+  "mSummaryWeight" : {
+    "title" : "Weight",
+    "items" : [
+
+    ]
+  },
+  "mPreviousReportUuid" : "4b08c36a-a466-4f5a-9f9a-264d75aca165",
+  "mSummaryFood" : {
+    "title" : "Activity details",
+    "subtitle" : "Food",
+    "items" : [
+
+    ]
+  },
+  "mAvgGoalPerformance" : {
+    "food" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "avgGoalPerfTitle" : "Average goal performance",
+    "sleep" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "14 hrs 25 mins",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 432,
+      "valueOneWeekAgo" : 432,
+      "validDaysOfPrevious" : 2147483647,
+      "difference" : "None",
+      "evaluationUnit" : {
+        "minUnit" : "mins",
+        "hourUnit" : "hrs"
+      },
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "subtitle" : "December 8 - 14 vs. December 1 - 7",
+    "avgActivityPerfTitle" : "Average activity",
+    "step" : {
+      "validDaysOfTwoWeeks" : 7,
+      "evaluation" : "13893Steps",
+      "evaluationValueOfPrevious" : 15268,
+      "evaluationValue" : 13893,
+      "valueOneWeekAgo" : 97256,
+      "validDaysOfPrevious" : 7,
+      "difference" : "▼9621",
+      "unit" : "Steps",
+      "validDays" : 7,
+      "valueTwoWeeksAgo" : 106877,
+      "differenceValue" : -9621
+    }
+  },
+  "mGroupComparison" : {
+    "subtitle" : "You vs. Group",
+    "title" : "Group comparison",
+    "groupComparisonItems" : [
+      {
+        "unit" : "steps",
+        "groupKey" : "Group",
+        "valueMineString" : "13893 Steps",
+        "valueOtherString" : "4604 Steps",
+        "valueOther" : 4604,
+        "groupDescription" : "Group : Men using Samsung Health",
+        "title" : "Average daily steps",
+        "valueMine" : 13893,
+        "type" : "AvgDailySteps",
+        "myKey" : "Me"
+      }
+    ]
+  },
+  "mComparingPeriod" : "December 8 - 14 vs. December 1 - 7",
+  "mSummarySleep" : {
+    "dailyUnit" : "hr",
+    "title" : "Activity details",
+    "items" : [
+      {
+        "value" : 865,
+        "key" : "TotalTimeSlept",
+        "keyString" : "Total time slept",
+        "valueString" : "14 hrs 25 mins"
+      }
+    ],
+    "subtitle" : "Sleep",
+    "dailyValues" : [
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : 599,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : 266,
+        "goal" : -1
+      }
+    ]
+  },
+  "mSummaryStep" : {
+    "dailyUnit" : "Steps",
+    "title" : "Activity details",
+    "items" : [
+      {
+        "value" : 97256,
+        "key" : "TotalSteps",
+        "keyString" : "Total steps",
+        "valueString" : "97256 (▼9621)"
+      },
+      {
+        "value" : 11.245670318603516,
+        "key" : "AvgDistance",
+        "keyString" : "Avg. distance",
+        "valueString" : "0.00 mi (▼0.0)"
+      },
+      {
+        "value" : 78.719696044921875,
+        "key" : "TotalDistance",
+        "keyString" : "Total distance",
+        "valueString" : "0.00 mi (▼0.0)"
+      },
+      {
+        "value" : 617,
+        "key" : "AvgCaloriesBurned",
+        "keyString" : "Avg. calories burned",
+        "valueString" : "617 Cal"
+      },
+      {
+        "value" : 4321,
+        "key" : "TotalCaloriesBurned",
+        "keyString" : "Total calories burned",
+        "valueString" : "4321 Cal (▼3.0)"
+      }
+    ],
+    "subtitle" : "Steps",
+    "dailyValues" : [
+      {
+        "value" : 21415,
+        "goal" : 7500
+      },
+      {
+        "value" : 11670,
+        "goal" : 7500
+      },
+      {
+        "value" : 12367,
+        "goal" : 7500
+      },
+      {
+        "value" : 19613,
+        "goal" : 7500
+      },
+      {
+        "value" : 7717,
+        "goal" : 7500
+      },
+      {
+        "value" : 12922,
+        "goal" : 7500
+      },
+      {
+        "value" : 11552,
+        "goal" : 7500
+      }
+    ]
+  },
+  "mRequestIdMap" : {
+    "tracker.sleep" : 1,
+    "tracker.food" : 1,
+    "tracker.heartrate" : 1,
+    "tracker.pedometer" : 1,
+    "tracker.weight" : 1
+  },
+  "mLocaleId" : "en_US",
+  "mWeekDay" : {
+    "days" : [
+      "S",
+      "M",
+      "T",
+      "W",
+      "T",
+      "F",
+      "S"
+    ]
+  },
+  "mTitle" : "Weekly report",
+  "mSummaryCare" : {
+    "subtitleAllStatusHR" : "All tags",
+    "restingHR" : [
+
+    ],
+    "subtiltlePostmealBG" : "Post-meal",
+    "pulseRate" : [
+
+    ],
+    "allStatusBG" : [
+
+    ],
+    "systolic" : [
+
+    ],
+    "subtitlePulseRate" : "Pulse rate",
+    "subtiltlePremealBG" : "Pre-meal",
+    "subtitleDiastolic" : "Diastolic pressure",
+    "subtitleRestingHR" : "Resting heart rate",
+    "subtitleBP" : "Blood pressure",
+    "subtitleSystolic" : "Systolic pressure",
+    "subtitleHR" : "Heart rate",
+    "subtitleBG" : "Blood glucose",
+    "premealBG" : [
+
+    ],
+    "AllStatusHR" : [
+      {
+        "value" : 80,
+        "key" : "HRAvg",
+        "keyString" : "Average",
+        "valueString" : "80.0 bpm"
+      },
+      {
+        "value" : 133,
+        "key" : "HRHighest",
+        "keyString" : "Highest",
+        "valueString" : "133.0 bpm"
+      },
+      {
+        "value" : 58,
+        "key" : "HRLowest",
+        "keyString" : "Lowest",
+        "valueString" : "58.0 bpm"
+      }
+    ],
+    "subtitleAllStatusBG" : "All tags",
+    "postmealBG" : [
+
+    ],
+    "diastolic" : [
+
+    ],
+    "fastingBG" : [
+
+    ],
+    "subtitleFastingBG" : "Fasting",
+    "bpLastReading" : [
+
+    ]
+  }
+}

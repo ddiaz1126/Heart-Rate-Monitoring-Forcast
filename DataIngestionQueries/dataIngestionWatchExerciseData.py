@@ -15,7 +15,7 @@ db_password = os.getenv("DB_PASSWORD")
 db_host = os.getenv("DB_HOST")
 db_port = os.getenv("DB_PORT")
 
-exercise_overview_path = '/Users/daviddiaz/Desktop/Main/Heart-Rate-Monitoring-Forecast/GalaxyWatchData/com.samsung.health.exercise.2024110708.csv'
+exercise_overview_path = '/Users/daviddiaz/Desktop/Main/Heart-Rate-Monitoring-Forecast/GalaxyWatchData/com.samsung.health.exercise.2025010313.csv'
 
 exercise_overview = pd.read_csv(exercise_overview_path, index_col=False)
 

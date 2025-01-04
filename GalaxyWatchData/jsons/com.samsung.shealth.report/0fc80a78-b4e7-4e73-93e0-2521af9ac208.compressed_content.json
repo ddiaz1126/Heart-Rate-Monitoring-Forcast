@@ -1,0 +1,212 @@
+{
+  "mPeriod" : "November 3 - 8",
+  "mNoData" : "No data",
+  "mSummaryWeight" : {
+    "title" : "Weight",
+    "items" : [
+
+    ]
+  },
+  "mPreviousReportUuid" : "388be7aa-6ef4-4170-9d0a-2a5f5b6ce8a9",
+  "mSummaryFood" : {
+    "title" : "Activity details",
+    "subtitle" : "Food",
+    "items" : [
+
+    ]
+  },
+  "mAvgGoalPerformance" : {
+    "food" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "avgGoalPerfTitle" : "Average goal performance",
+    "sleep" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "subtitle" : "November 3 - 8 vs. October 27 - November 2",
+    "avgActivityPerfTitle" : "Average activity",
+    "step" : {
+      "validDaysOfTwoWeeks" : 7,
+      "evaluation" : "15402Steps",
+      "evaluationValueOfPrevious" : 13033,
+      "evaluationValue" : 15402,
+      "valueOneWeekAgo" : 107818,
+      "validDaysOfPrevious" : 7,
+      "difference" : "TotalSteps16585",
+      "unit" : "Steps",
+      "validDays" : 7,
+      "valueTwoWeeksAgo" : 91233,
+      "differenceValue" : 16585
+    }
+  },
+  "mComparingPeriod" : "November 3 - 8 vs. October 27 - November 2",
+  "mSummarySleep" : {
+    "title" : "Activity details",
+    "subtitle" : "Sleep",
+    "items" : [
+
+    ]
+  },
+  "mSummaryStep" : {
+    "dailyUnit" : "Steps",
+    "title" : "Activity details",
+    "items" : [
+      {
+        "value" : 107818,
+        "key" : "TotalSteps",
+        "keyString" : "Total steps",
+        "valueString" : "107818 (▲16585)"
+      },
+      {
+        "value" : 12.308837890625,
+        "key" : "AvgDistance",
+        "keyString" : "Avg. distance",
+        "valueString" : "0.00 mi (▲0.0)"
+      },
+      {
+        "value" : 86.161857604980469,
+        "key" : "TotalDistance",
+        "keyString" : "Total distance",
+        "valueString" : "0.00 mi (▲0.0)"
+      },
+      {
+        "value" : 652,
+        "key" : "AvgCaloriesBurned",
+        "keyString" : "Avg. calories burned",
+        "valueString" : "652 Cal (▲172.0)"
+      },
+      {
+        "value" : 4569,
+        "key" : "TotalCaloriesBurned",
+        "keyString" : "Total calories burned",
+        "valueString" : "4569 Cal (▲1206.0)"
+      }
+    ],
+    "subtitle" : "Steps",
+    "dailyValues" : [
+      {
+        "value" : 23410,
+        "goal" : 7500
+      },
+      {
+        "value" : 11354,
+        "goal" : 7500
+      },
+      {
+        "value" : 16149,
+        "goal" : 7500
+      },
+      {
+        "value" : 8713,
+        "goal" : 7500
+      },
+      {
+        "value" : 14118,
+        "goal" : 7500
+      },
+      {
+        "value" : 16013,
+        "goal" : 7500
+      },
+      {
+        "value" : 18061,
+        "goal" : 7500
+      }
+    ]
+  },
+  "mRequestIdMap" : {
+    "tracker.sleep" : 1,
+    "tracker.food" : 1,
+    "tracker.heartrate" : 1,
+    "tracker.pedometer" : 1,
+    "tracker.weight" : 1
+  },
+  "mLocaleId" : "en_US",
+  "mWeekDay" : {
+    "days" : [
+      "S",
+      "M",
+      "T",
+      "W",
+      "T",
+      "F",
+      "S"
+    ]
+  },
+  "mTitle" : "Weekly report",
+  "mSummaryCare" : {
+    "subtitleAllStatusHR" : "All tags",
+    "restingHR" : [
+
+    ],
+    "subtiltlePostmealBG" : "Post-meal",
+    "pulseRate" : [
+
+    ],
+    "allStatusBG" : [
+
+    ],
+    "systolic" : [
+
+    ],
+    "subtitlePulseRate" : "Pulse rate",
+    "subtiltlePremealBG" : "Pre-meal",
+    "subtitleDiastolic" : "Diastolic pressure",
+    "subtitleRestingHR" : "Resting heart rate",
+    "subtitleBP" : "Blood pressure",
+    "subtitleSystolic" : "Systolic pressure",
+    "subtitleHR" : "Heart rate",
+    "subtitleBG" : "Blood glucose",
+    "premealBG" : [
+
+    ],
+    "AllStatusHR" : [
+      {
+        "value" : 63,
+        "key" : "HRAvg",
+        "keyString" : "Average",
+        "valueString" : "63.0 bpm"
+      },
+      {
+        "value" : 63,
+        "key" : "HRHighest",
+        "keyString" : "Highest",
+        "valueString" : "63.0 bpm"
+      },
+      {
+        "value" : 63,
+        "key" : "HRLowest",
+        "keyString" : "Lowest",
+        "valueString" : "63.0 bpm"
+      }
+    ],
+    "subtitleAllStatusBG" : "All tags",
+    "postmealBG" : [
+
+    ],
+    "diastolic" : [
+
+    ],
+    "fastingBG" : [
+
+    ],
+    "subtitleFastingBG" : "Fasting",
+    "bpLastReading" : [
+
+    ]
+  }
+}

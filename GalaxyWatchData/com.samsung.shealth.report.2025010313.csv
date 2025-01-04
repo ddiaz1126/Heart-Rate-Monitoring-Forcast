@@ -1,0 +1,16 @@
+com.samsung.shealth.report,1149015,3
+start_date,pkg_name,version,type,compressed_content,deviceuuid,is_empty,datauuid,timezone,create_time,update_time,content
+1714276800000,com.sec.android.app.shealth,4,0,df33574b-ae39-46ed-88aa-7ff1ca399e79.compressed_content,HuT3voPSBy,0,df33574b-ae39-46ed-88aa-7ff1ca399e79,America/New_York,"05/05/2024, 10:16:30 AM","05/05/2024, 10:16:31 AM",X,
+1714881600000,com.sec.android.app.shealth,4,0,1c1efbb3-bb46-4803-9d44-8d035318baad.compressed_content,HuT3voPSBy,0,1c1efbb3-bb46-4803-9d44-8d035318baad,America/New_York,"05/13/2024, 5:15:56 AM","05/13/2024, 5:15:57 AM",X,
+1715486400000,com.sec.android.app.shealth,4,0,b6b6970b-2745-4142-998b-7747eadf195f.compressed_content,HuT3voPSBy,0,b6b6970b-2745-4142-998b-7747eadf195f,America/New_York,"05/19/2024, 11:11:45 AM","05/19/2024, 11:11:45 AM",X,
+1723964400000,com.sec.android.app.shealth,4,0,f4598074-665e-4b6c-a899-ea6027fd22c2.compressed_content,HuT3voPSBy,0,f4598074-665e-4b6c-a899-ea6027fd22c2,America/Los_Angeles,"08/28/2024, 4:18:57 PM","08/28/2024, 4:18:58 PM",X,
+1724569200000,com.sec.android.app.shealth,4,0,9ee7d882-88c7-4830-bb70-92090f1035cc.compressed_content,HuT3voPSBy,0,9ee7d882-88c7-4830-bb70-92090f1035cc,America/Los_Angeles,"09/01/2024, 1:00:42 PM","09/01/2024, 1:00:43 PM",X,
+1725174000000,com.sec.android.app.shealth,4,0,19c771f7-267b-448d-802e-5ab5e31bcaaf.compressed_content,HuT3voPSBy,0,19c771f7-267b-448d-802e-5ab5e31bcaaf,America/Los_Angeles,"09/11/2024, 12:06:49 AM","09/11/2024, 12:06:49 AM",X,
+1730012400000,com.sec.android.app.shealth,4,0,388be7aa-6ef4-4170-9d0a-2a5f5b6ce8a9.compressed_content,HuT3voPSBy,0,388be7aa-6ef4-4170-9d0a-2a5f5b6ce8a9,America/Los_Angeles,"11/06/2024, 11:08:20 PM","11/06/2024, 11:08:21 PM",X,
+1730617200000,com.sec.android.app.shealth,4,0,0fc80a78-b4e7-4e73-93e0-2521af9ac208.compressed_content,HuT3voPSBy,0,0fc80a78-b4e7-4e73-93e0-2521af9ac208,America/Los_Angeles,"11/10/2024, 12:10:01 PM","11/10/2024, 12:10:01 PM",X,
+1732435200000,com.sec.android.app.shealth,4,0,7532cfe8-15a3-4582-bcb3-0094e23d7380.compressed_content,HuT3voPSBy,0,7532cfe8-15a3-4582-bcb3-0094e23d7380,America/Los_Angeles,"12/03/2024, 9:44:30 AM","12/03/2024, 9:44:31 AM",X,
+1733040000000,com.sec.android.app.shealth,4,0,4b08c36a-a466-4f5a-9f9a-264d75aca165.compressed_content,HuT3voPSBy,0,4b08c36a-a466-4f5a-9f9a-264d75aca165,America/Los_Angeles,"12/08/2024, 4:36:33 PM","12/08/2024, 4:36:37 PM",X,
+1733644800000,com.sec.android.app.shealth,4,0,0ef0588c-5f0f-4122-94c0-51b804d61c1c.compressed_content,HuT3voPSBy,0,0ef0588c-5f0f-4122-94c0-51b804d61c1c,America/Los_Angeles,"12/15/2024, 3:22:16 PM","12/15/2024, 3:22:16 PM",X,
+1734249600000,com.sec.android.app.shealth,4,0,a0758dc8-99d6-44ee-8420-26a5855076b1.compressed_content,HuT3voPSBy,0,a0758dc8-99d6-44ee-8420-26a5855076b1,America/Los_Angeles,"12/22/2024, 2:03:30 PM","12/22/2024, 2:03:30 PM",X,
+1734854400000,com.sec.android.app.shealth,4,0,dd32b467-8da0-4c16-90e7-4db5ed553959.compressed_content,HuT3voPSBy,0,dd32b467-8da0-4c16-90e7-4db5ed553959,America/Los_Angeles,"12/29/2024, 2:56:36 PM","12/29/2024, 2:56:36 PM",X,
+

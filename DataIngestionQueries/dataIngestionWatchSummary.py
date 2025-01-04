@@ -15,7 +15,7 @@ db_password = os.getenv("DB_PASSWORD")
 db_host = os.getenv("DB_HOST")
 db_port = os.getenv("DB_PORT")
 
-path = '/Users/daviddiaz/Desktop/Main/Heart-Rate-Monitoring-Forecast/GalaxyWatchData/com.samsung.shealth.tracker.pedometer_day_summary.2024110708.csv'
+path = '/Users/daviddiaz/Desktop/Main/Heart-Rate-Monitoring-Forecast/GalaxyWatchData/com.samsung.shealth.tracker.pedometer_day_summary.2025010313.csv'
 # Day Summary
 watch_day_summary = pd.read_csv(path, delimiter=',', index_col=None)
 day_summary_filtered = watch_day_summary[['recommendation', 'source_package_name', 'binning_data', 'create_time', 'deviceuuid', 'active_time', 'speed', 'achievement', 'healthy_step', 'datauuid', 'walk_step_count', 'run_step_count', 'day_time', 'calorie', 'distance', 'step_count', 'update_time']]
